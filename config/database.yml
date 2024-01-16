@@ -16,7 +16,7 @@ test:
   username: root
   password:
   host: localhost
-  database:   database: protospace2-40270_test
+  database: protospace2-40270_test
 
 production:
   <<: *default
